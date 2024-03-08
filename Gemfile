@@ -15,7 +15,7 @@ gem 'uglifier', '~> 4.2.0'
 # gem 'mini_racer', platforms: :ruby
 
 # Use jquery as the JavaScript library
-gem 'jquery-rails', '~> 4.4'
+gem 'jquery-rails', '~> 4.5'
 # Use CoffeeScript for .coffee assets and views
 # gem 'coffee-rails', '~> 5.0'
 # Turbolinks makes navigating your web application faster. Read more: https://github.com/turbolinks/turbolinks
@@ -34,6 +34,7 @@ gem 'webrick', '~> 1.7'
 # Mail gem
 gem 'mail', '>= 2.8.0.rc1'
 
+gem 'rails_admin', '~> 2.0'
 # Use ActiveStorage variant
 # gem 'mini_magick', '~> 4.8'
 
